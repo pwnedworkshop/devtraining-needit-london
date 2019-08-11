@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e0b0eef7eba5320047f6a5115206fe70</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-23 22:56:42</sys_created_on>
+        <sys_id>e0b0eef7eba5320047f6a5115206fe70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sn_cmp.cloud_service_user</sys_name>
+        <sys_package display_value="Cloud Management Platform" source="sn_cmp">80d50579eb203200979aa5115206fedd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Management Platform">80d50579eb203200979aa5115206fedd</sys_scope>
+        <sys_security_acl display_value="DynamicFormAjax">3ba0eef7eba5320047f6a5115206fe6c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e0b0eef7eba5320047f6a5115206fe70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-23 22:56:42</sys_updated_on>
+        <sys_user_role display_value="sn_cmp.cloud_service_user" name="sn_cmp.cloud_service_user">c440274b0b083200e586a2c563673a88</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-10 23:48:00</sys_created_on>
+        <sys_id>deb3c737db03b300b659e1bb4b9619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sn_cmp.cloud_service_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_deb3c737db03b300b659e1bb4b9619d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-10 23:48:00</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

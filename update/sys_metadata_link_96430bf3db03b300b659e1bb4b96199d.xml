@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>55c493b1d7110200f215a5f75e610345</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>xuejia.lu</sys_created_by>
+        <sys_created_on>2015-07-17 22:46:49</sys_created_on>
+        <sys_id>55c493b1d7110200f215a5f75e610345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fm_labor_rate_card.orchestration_manager</sys_name>
+        <sys_package display_value="Orchestration - ROI" source="com.snc.runbook_automation.roi">2518405bdb033300b659e1bb4b96194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="fm_labor_rate_card">201207660a0a2c952ccd3e44aa57c5fd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_55c493b1d7110200f215a5f75e610345</sys_update_name>
+        <sys_updated_by>xuejia.lu</sys_updated_by>
+        <sys_updated_on>2015-07-17 22:46:49</sys_updated_on>
+        <sys_user_role display_value="orchestration_manager" name="orchestration_manager">07c9fce3d7000200f215a5f75e6103f9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-10 23:46:06</sys_created_on>
+        <sys_id>96430bf3db03b300b659e1bb4b96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fm_labor_rate_card.orchestration_manager</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_96430bf3db03b300b659e1bb4b96199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-10 23:46:06</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>
